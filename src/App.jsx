@@ -1,5 +1,5 @@
 import { Canvas } from "@react-three/fiber";
-import { Room } from "./assets/model/Room";
+import { Room } from "./assets/model/Room.jsx";
 import { PerspectiveCamera, PresentationControls } from "@react-three/drei";
 import { Suspense } from "react";
 
